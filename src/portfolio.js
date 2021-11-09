@@ -568,7 +568,7 @@ const projectsData = {
       description:
         "A firebase firestore cloud wallpapers application to download and set wallpaper inbuilt system Application.",
       createdAt: "2021-03-06",
-      //  liveUrl: "https://covid-19-tracker-e4bda.web.app/",
+        liveUrl: "https://play.google.com/store/apps/details?id=com.masai.sainath.wallpaperx",
       gitUrl: "https://github.com/sainath-AI/WallpaperX",
     },
     {
@@ -577,7 +577,7 @@ const projectsData = {
       description:
         "A simple notes Application with decent UI for daily todo list as well as taking notes system for students.",
       createdAt: "2021-07-06",
-      // liveUrl: "https://confusion-restaurant-95beb.web.app/home",
+       liveUrl: "https://play.google.com/store/apps/details?id=com.masai.sainath.writenotesapp",
       gitUrl: "https://github.com/sainath-AI?tab=repositories",
     },
     {
