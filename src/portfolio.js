@@ -587,7 +587,7 @@ const projectsData = {
         "A meat delivery application -cloned with variety of meats foods  ",
       createdAt: "2021-20-07",
       //liveUrl: "https://www.subhamraoniar.com/",
-      gitUrl: "https://github.com/sainath-AI/ChatWithMe",
+      gitUrl: "https://github.com/sainath-AI/Licious",
     },
     {
       id: 5,
@@ -596,16 +596,16 @@ const projectsData = {
         "A Furniture renting App for monthly rental furnished goods  ",
       createdAt: "2021-1-28",
       //liveUrl: "https://www.subhamraoniar.com/",
-      gitUrl: "https://github.com/sainath-AI/ChatWithMe",
+      gitUrl: "https://github.com/ishu260596/RentoMojo",
     },
     {
       id: 6,
-      name: "Tagged",
+      name: "Poetry",
       description:
         "A dating application with user friendly UI implemnting the fronted Clone of Tagged",
       createdAt: "2020-31-12",
       //liveUrl: "https://www.subhamraoniar.com/",
-      gitUrl: "https://github.com/sainath-AI/ChatWithMe",
+      gitUrl: "https://github.com/sainath-AI/Poetry",
     },
   ],
 };
