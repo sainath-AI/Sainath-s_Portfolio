@@ -38,7 +38,7 @@ const greeting = {
   secondSubtitle:
     "Love to learn new technologies everyday and apply them through building new projects.",
   resumeLink:
-    "https://drive.google.com/file/d/1A9tcVZ75FozjvfyPNGB-yLGvOG6MtKod/view?usp=sharing",
+    "https://drive.google.com/file/d/19KCYS17hz3fklth777WMLP-n3hCL6T_T/view?usp=sharing",
   portfolio_repository: "https://github.com/sainath-AI",
 };
 
