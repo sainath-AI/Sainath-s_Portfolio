@@ -559,7 +559,7 @@ const projectsData = {
       description:
         "A firebase backed messageing system with Authentication and Realtime database ",
       createdAt: "2021-03-06",
-      //liveUrl: "https://www.subhamraoniar.com/",
+      liveUrl: "https://play.google.com/store/apps/details?id=com.masai.chatwithme",
       gitUrl: "https://github.com/sainath-AI/ChatWithMe",
     },
     {
@@ -582,11 +582,11 @@ const projectsData = {
     },
     {
       id: 4,
-      name: "Licious",
+      name: "MensXp_Shopping",
       description:
-        "A meat delivery application -cloned with variety of meats foods  ",
+        "A Shopping App designed for Mens Lifestyle, clothing and Grooming ",
       createdAt: "2021-20-07",
-      //liveUrl: "https://www.subhamraoniar.com/",
+      liveUrl: "https://play.google.com/store/apps/details?id=com.masai.sainath.mensxp",
       gitUrl: "https://github.com/sainath-AI/Licious",
     },
     {
@@ -604,7 +604,7 @@ const projectsData = {
       description:
         "A dating application with user friendly UI implemnting the fronted Clone of Tagged",
       createdAt: "2020-31-12",
-      //liveUrl: "https://www.subhamraoniar.com/",
+      liveUrl: "https://play.google.com/store/apps/details?id=com.masai.sainath.poetry",
       gitUrl: "https://github.com/sainath-AI/Poetry",
     },
   ],
