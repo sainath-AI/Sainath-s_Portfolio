@@ -471,7 +471,7 @@ const experience = {
             },
             {
               projectName: "Licious",
-              clientName: "judge- Nrupul Dev",
+              clientName: "Judge- Nrupul Dev",
               projectDescription:
                 "A meat delivery application -cloned with variety of meats foods.In this Application i have integrated the frontend UI with Data communition between Activities and Cart functionalty",
             },
@@ -595,12 +595,12 @@ const projectsData = {
       description:
         "A Furniture renting App for monthly rental furnished goods  ",
       createdAt: "2021-1-28",
-      //liveUrl: "https://www.subhamraoniar.com/",
+      liveUrl: "https://drive.google.com/file/d/1om94hWVoAx5OggC_LlUKCibnz9RyPTZ5/view?usp=sharing",
       gitUrl: "https://github.com/ishu260596/RentoMojo",
     },
     {
       id: 6,
-      name: "Poetry",
+      name: "The Quotes App",
       description:
         "A dating application with user friendly UI implemnting the fronted Clone of Tagged",
       createdAt: "2020-31-12",
